@@ -1,0 +1,3 @@
+# Interactive fiction
+
+Interactive fiction is a computer program that generates textual narrative in response to user input, generally in the form of simple natural-language commands (e.g. "take keys" or "headmaster, tell me about Malcolm"). Following instructions encoded by the designer, a computer sends typed input through a parser to identify its grammatical structure, then respond by describing, in a few lines or paragraphs, whether or to what extent the game world has changed in response to the action requested by the player. The game might also announce that the input was not understood, or ask the player for additional clarifying input.
