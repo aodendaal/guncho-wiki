@@ -1,5 +1,5 @@
 # Guncho Wiki Dump
-This is information extracted from Web Archive snapshots of the now-defunct http://wiki.guncho.com
+_This is information extracted from Web Archive snapshots of the now-defunct http://wiki.guncho.com_
 
 __Welcome to GunchoWiki__, a site to share information about the [Guncho](guncho.md) multiplayer [interactive fiction](interactivefiction.md) system. Feel free to add content or improve the layout.
 
@@ -16,7 +16,7 @@ We have a [Google Group](http://groups.google.com/group/guncho) for discussion n
 * Talk about Guncho: Questions or general discussion.
 * [Links wanted](linkswanted.md): Ask for someone to link your realm, or offer links to other users.
 * [List of realms](listofrealms.md): Post links to your realms here. Make new pages to post descriptions, maps, or discussions.
-* How can I help?: Ask for help on your project, or find something fun to work on.
+* [How can I help?](help.md): Ask for help on your project, or find something fun to work on.
 
 ## Links
 * [The main Guncho website](http://www.guncho.com/)
@@ -30,12 +30,12 @@ We have a [Google Group](http://groups.google.com/group/guncho) for discussion n
 * [List of new phrases](phrases.md): Quick reference for the words in Guncho code that might be unfamiliar.
 * [Multiple player objects](multipleplayerobjects.md): How the presence of more than one player affects your code.
 * Linking realms: Connecting to the rest of the world.
-* Real-time events: Making things happen at the same pace no matter how quickly players type.
-* Server registers: Communicating with the world outside your realm.
-* Player attributes: Learning about your players.
-* Storage slots: Saving the state of your realm when it restarts.
+* [Real-time events](realtimeevents.md): Making things happen at the same pace no matter how quickly players type.
+* [Server registers](serverregisters.md): Communicating with the world outside your realm.
+* [Player attributes](playerattributes.md): Learning about your players.
+* [Storage slots](storageslots.md): Saving the state of your realm when it restarts.
 * [Troubleshooting realms](troubleshootingrealms.md): What to do if your realm is crashing or being condemned.
-* Using the Guncho Mockup extension: How to use the extension to develop and test your realms off-line.
+* [Using the Guncho Mockup extension](usingextension.md): How to use the extension to develop and test your realms off-line.
 
 ## Designing for Guncho
 * Multiplayer roles: How to give players different identities and viewpoints.
