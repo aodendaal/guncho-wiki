@@ -18,7 +18,7 @@ We have a [Google Group](http://groups.google.com/group/guncho) for discussion n
 * [List of realms](listofrealms.md): Post links to your realms here. Make new pages to post descriptions, maps, or discussions.
 * How can I help?: Ask for help on your project, or find something fun to work on.
 
-##Links
+## Links
 * [The main Guncho website](http://www.guncho.com/)
 * [The Guncho control panel](http://cp.guncho.com/)
 * [Guncho forum on Google Groups](http://groups.google.com/group/guncho)

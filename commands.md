@@ -25,7 +25,3 @@ Player meows.
 * __take _thing___ - Picks up an object.
 * __drop _thing___ - Drops an object.
 * __put _thing_ in/on _thing___ - Puts an object in a container or on a supporter.
-
-## See Also
-* [Main Page](README.md)
-* [List of new phrases](phrases.md)

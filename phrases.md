@@ -41,8 +41,3 @@
 * tell (text) to everyone who can see (something) optionally: , except the actor - * phrase (the comma is important!)
 * text spoken - action variable
 * transfer consciousness from (a PC) to (another PC) - phrase
-
-## See Also
-* [Main Page](README.md)
-* [List of commands](commands.md)
-* [List of compatible extensions](extensions.md)

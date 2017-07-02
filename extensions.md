@@ -14,8 +14,3 @@ _Add the names, authors, and version numbers of extensions that are_ not _compat
   * Not only does it not capture output from tell phrases it seems to fail on normal say phrases as well under Guncho.
 * Output Filtering by Ron Newcomb
   * Relies on Text Capture.
-
-## See Also
-* [Main Page](README.md)
-* [List of commands](commands.md)
-* [List of new phrases](phrases.md)

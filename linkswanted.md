@@ -12,9 +12,3 @@ List your realm here if it isn't linked in yet.
 * horrorland
 * Werewolf
 * The 7th Floor
-
-## See Also
-## See Also
-* [Main Page](README.md)
-* [List of compatible extensions](extensions.md)
-* [List of new phrases](phrases.md)
